@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Spring Boot, Symfony , Java<br>⚡ Fun Fact : I'm Batman
+🌱 I’m currently learning Spring Boot, Symfony , Java , Flutter<br>⚡ Fun Fact : I'm Batman
 
 
 ## 🌐 Socials:
