@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Spring Boot, Symfony , Java , Flutter<br>
+🌱 I’m currently learning Spring Boot, Symfony , Java , Flutter , Odoo <br>
 
 
 ## 🌐 Socials:
